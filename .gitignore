@@ -1,0 +1,30 @@
+# Binary
+epack-tool-scan-secrets
+epack-tool-scan-secrets.exe
+
+# Go
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+go.work
+go.work.sum
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# GoReleaser
+dist/
+
+# Test output
+result.json
